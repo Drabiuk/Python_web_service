@@ -2,7 +2,7 @@
 
 ```
 Przygotowaliśmy aplikację prywatnej biblioteczki,
-użytkowmik po utworzeniu konta może dodawać i zarządzać książkami, które aktualnie czyta oraz oceniać je po przeczytaniu.
+użytkownik po utworzeniu konta może dodawać i zarządzać książkami, które aktualnie czyta oraz oceniać je po przeczytaniu.
 Autorzy: Izabela Bytof, Maciej Gomulski, Mikołaj Drabiuk
 Grupa: Grupa AAA
 ```
